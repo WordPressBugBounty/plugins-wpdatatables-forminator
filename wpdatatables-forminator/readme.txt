@@ -3,9 +3,9 @@ Contributors: wpDataTables
 Author URI: https://www.tmsproducts.io/
 Tags: wpdatatables, forminator, table, form, quiz
 Requires at least: 4.0
-Tested up to: 6.5.3
-Requires PHP: 5.6
-Stable tag: 1.3.2
+Tested up to: 6.6.2
+Requires PHP: 7.4
+Stable tag: 1.3.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -286,6 +286,10 @@ Installation of the plugin is straightforward.
 7. Integration settings
 
 == Changelog ==
+= 1.3.3 =
+* Compatibility with WordPress 6.6.2 approved.
+* Other small bug fixes and stability improvements.
+
 = 1.3.2 =
 * Bugfix: Fixed issue with PM time not showing correctly.
 * Compatibility with WordPress 6.5.3 version approved.
