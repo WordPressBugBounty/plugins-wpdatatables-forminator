@@ -141,6 +141,8 @@
                     $('.customize-table-settings-tab').animateFadeIn();
                     $('.placeholders-settings-tab').animateFadeIn();
                     $('.forminator-settings-tab').animateFadeIn();
+                    $('.advanced-table-settings-tab').animateFadeIn();
+                    $('.master-detail-settings-tab').animateFadeIn();
                 }
             } else {
                 $('.wdt-apply').prop('disabled', true);
@@ -150,6 +152,8 @@
                 $('.customize-table-settings-tab').animateFadeOut();
                 $('.placeholders-settings-tab').animateFadeOut();
                 $('.forminator-settings-tab').animateFadeOut();
+                $('.advanced-table-settings-tab').animateFadeOut();
+                $('.master-detail-settings-tab').animateFadeOut();
             }
             let fieldIds = $(this).val()
             wpdatatable_frf_config.setFields(fieldIds);

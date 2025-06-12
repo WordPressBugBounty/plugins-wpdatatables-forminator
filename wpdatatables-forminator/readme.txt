@@ -5,7 +5,7 @@ Tags: wpdatatables, forminator, table, form, quiz
 Requires at least: 4.0
 Tested up to: 6.8.1
 Requires PHP: 7.4
-Stable tag: 1.3.5
+Stable tag: 1.3.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -286,6 +286,10 @@ Installation of the plugin is straightforward.
 7. Integration settings
 
 == Changelog ==
+= 1.3.6 =
+* Ensured full compatibility with wpDataTables.
+* Other small bug fixes and stability improvements.
+
 = 1.3.5 =
 * Compatibility with WordPress 6.8.1 approved.
 * Other small bug fixes and stability improvements.
