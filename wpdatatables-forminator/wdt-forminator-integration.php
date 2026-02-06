@@ -6,12 +6,12 @@ defined('ABSPATH') or die("Cannot access pages directly.");
 
 /**
  * @package wpDataTables integration for Forminator Forms
- * @version 1.3.7
+ * @version 1.3.9
  *
  * @wordpress-plugin
  * Plugin Name: wpDataTables integration for Forminator Forms
  * Description: Tool that adds "Forminator Form" as a new table type and allows you to create wpDataTables from Forminator Forms entries data (submissions).
- * Version: 1.3.7
+ * Version: 1.3.9
  * Author: TMS-Plugins
  * Author URI: https://www.tmsproducts.io/
  * Text Domain: wpdatatables
@@ -29,7 +29,7 @@ define('WDT_FRF_ROOT_PATH', plugin_dir_path(__FILE__));
 // URL of WDT FRF integration plugin
 define('WDT_FRF_ROOT_URL', plugin_dir_url(__FILE__));
 // Current version of WDT FRF integration plugin
-define('WDT_FRF_VERSION', '1.3.7');
+define('WDT_FRF_VERSION', '1.3.9');
 // Required wpDataTables version
 define('WDT_FRF_VERSION_TO_CHECK', '3.4.2.16');
 
