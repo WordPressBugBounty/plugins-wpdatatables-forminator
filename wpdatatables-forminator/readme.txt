@@ -3,9 +3,9 @@ Contributors: wpDataTables
 Author URI: https://www.tmsproducts.io/
 Tags: wpdatatables, forminator, table, form, quiz
 Requires at least: 4.0
-Tested up to: 6.9
+Tested up to: 6.9.4
 Requires PHP: 7.4
-Stable tag: 1.3.9
+Stable tag: 1.3.10
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -286,6 +286,14 @@ Installation of the plugin is straightforward.
 7. Integration settings
 
 == Changelog ==
+= 1.3.10 =
+* Compatibility with WordPress 6.9.4 approved.
+* Other small bug fixes and stability improvements.
+
+= 1.3.9 =
+* Compatibility with WordPress 6.9 approved.
+* Other small bug fixes and stability improvements.
+
 = 1.3.8 =
 * Compatibility with WordPress 6.9 approved.
 * Other small bug fixes and stability improvements.
